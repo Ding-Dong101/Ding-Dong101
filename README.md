@@ -119,7 +119,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/Uriah" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/DingDong101" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
@@ -128,6 +128,5 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="DingDong101" data-color="#241f31" data-emoji=""  data-font="Comic" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script></div>
+
 <!--<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>-->
