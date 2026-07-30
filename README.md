@@ -3,31 +3,25 @@
 </div>  
   
 
-### <div align="center">I'm Erastus, a full-time full-stack freelance developer 👨‍💻 currently enrolled in Kwame Nkrumah University of Science and Technology(KNUST)🚀</div>  
+### <div align="center">I'm Erastus, a full-stack freelance developer and cybersecurity enthusiast 👨‍💻 currently enrolled in Kwame Nkrumah University of Science and Technology (KNUST)🚀</div>  
   
 
-- 🔭 I’m  a Computer Science Student studying:
-Discrete Mathematics,
-Pure Mathematics,
-Economics,
-Structured Programming,
-and Circuit Theory.
+- 🔭 I’m a Computer Science Student studying: Discrete Mathematics, Pure Mathematics, Economics, Structured Programming, and Circuit Theory.
   
-  
+- 🌱 I’m currently learning Machine Learning and React for front-end development, as well as React Native for mobile development.
 
-- 🌱 I’m currently learning Machine Learning and React for front end development, as well as react native for mobile development  
-  
+- 🛡️ My cybersecurity endeavors include tackling Capture The Flag (CTF) challenges, conquering Hack The Box machines, and mastering command-line exploit tools in my Parrot OS environment.
 
-- ⚡ Fun fact: I like to cook 🧑‍🍳, play video games 🎮, swim 🏊🏾‍♂️, and here comes my favourite to solve problems. So yeah! Programming. I'm also an animie lover 😳  
+- 💼 Previously worked as a Cybersecurity Intern at the University Information Technology Services (UITS), focusing on offensive security.
+  
+- ⚡ Fun fact: I like to cook 🧑‍🍳, play video games 🎮, swim 🏊🏾‍♂️, and here comes my favourite to solve problems. So yeah! Programming. I'm also an anime lover 😳  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table><tr><td valign="top" width="25%">
 
 ### Frontend  
 <div align="center">  
@@ -40,9 +34,7 @@ and Circuit Theory.
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td><td valign="top" width="25%">
 
 ### Backend  
 <div align="center">  
@@ -57,9 +49,7 @@ and Circuit Theory.
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td><td valign="top" width="25%">
 
 ### DevOps  
 <div align="center">  
@@ -72,6 +62,15 @@ and Circuit Theory.
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="25%">
+
+### Security  
+<div align="center">  
+<a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux (Parrot OS/Kali)" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash/Shell Scripting" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
 </td></tr></table>  
 
 <br/>  
@@ -80,13 +79,13 @@ and Circuit Theory.
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/erastus-kwaw-9251a7359" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/Ding-Dong101" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/syndicate4778" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -102,7 +101,7 @@ and Circuit Theory.
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -128,5 +127,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-
-<!--<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>-->
