@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="debradeka-background-5963307_1920.jpgr" width="100%" />
+  <img src="Instagram Banner Design Tips for Business Success _ Create Your Stunning Cover Now.jpg" alt="Ding-Dong Banner" width="100%" />
   
   <br />
   <br />
@@ -11,7 +11,7 @@
 
 <br />
 
-<h3 align="center">Know About Me</h3>
+<h3 align="center"><code>> whoami</code></h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="80%">
 </p>
@@ -23,21 +23,21 @@
       <img src="1104718983602090085.jpg" width="90%" style="border-radius: 10px;" /> 
     </td>
     <td width="70%" valign="top">
-      <h3>Hey there! I'm Ding-Dong</h3>
+      <h3><code>Initializing session... User: Ding-Dong</code></h3>
       <p>
-        <a href="https://github.com/Ding-Dong101"><img src="https://komarev.com/ghpvc/?username=Ding-Dong101&style=flat-square&color=111111&label=Profile+Views" alt="Profile Views" /></a>
+        <a href="https://github.com/Ding-Dong101"><img src="https://komarev.com/ghpvc/?username=Ding-Dong101&style=flat-square&color=111111&label=profile_requests" alt="Profile Views" /></a>
       </p>
       <ul>
-        <li>🎓 <b>By Day:</b> Computer Science undergrad at KNUST, mostly studying school-related books and handouts.</li>
+        <li><code>[+] By Day:</code> Decrypting Computer Science fundamentals at KNUST (mostly parsing textbooks and absorbing handouts).</li>
         <br />
-        <li>🦇 <b>By Night:</b> Fueled by a deep obsession with cybersecurity, writing Python and Bash scripts to automate workflows, and diving into Capture The Flag challenges.</li>
+        <li><code>[!] By Night:</code> Fueled by a deep obsession with offensive security. Writing Python/Bash exploits, automating workflows, and rooting Capture The Flag (CTF) challenges.</li>
         <br />
-        <li>🎮 <b>AFK Activities:</b> When I'm not writing code, you can find me playing games, cooking, or managing my independent campus business.</li>
+        <li><code>[~] AFK:</code> When disconnected from the mainframe, I'm gaming, cooking, or running operations for my independent campus business.</li>
         <br />
-        <li>🖥️ <b>Currently:</b> Staring at my 27" 1440p monitor trying to figure out why my script broke.</li>
+        <li><code>[>] Current Status:</code> Staring at a 27" 1440p terminal, trying to figure out which line of code broke the matrix.</li>
       </ul>
       <br />
-      <b>🌟 Follow Me:</b> &nbsp;
+      <code>root@ding-dong:~# ping_me:</code> &nbsp;
       <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
       <a href="https://linkedin.com/in/erastus-kwaw-9251a7359"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="https://www.kaggle.com/syndicate4778"><img src="https://img.shields.io/badge/KAGGLE-111111?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
@@ -47,7 +47,7 @@
 
 <br />
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center"><code>> ls -l /usr/bin/skills</code></h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="80%">
 </p>
@@ -59,7 +59,7 @@
 
 <br />
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center"><code>> cat tech_stack.json</code></h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="80%">
 </p>
@@ -83,7 +83,7 @@
 
 <br />
 
-<h3 align="center">Top Projects & Stats</h3>
+<h3 align="center"><code>> ./execute_payloads.sh --verbose</code></h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="80%">
 </p>
@@ -92,11 +92,11 @@
   <tr>
     <td width="55%" valign="top">
       <ul>
-        <li><a href="#"><b>SAFETRADE</b></a><br>A peer-to-peer campus escrow mobile app built in React Native and Spring Boot, designed to handle transactions securely and gracefully.</li>
+        <li><a href="#"><b><code>SAFETRADE</code></b></a><br>A peer-to-peer campus escrow mobile app built in React Native and Spring Boot, designed to handle transactions securely and gracefully.</li>
         <br />
-        <li><a href="#"><b>OFFENSIVE SEC SCRIPTS</b></a><br>Custom terminal exploit tools and CTF automation built for my Parrot OS environment.</li>
+        <li><a href="#"><b><code>OFFENSIVE_SEC_SCRIPTS</code></b></a><br>Custom terminal exploit tools and CTF automation built for my Parrot OS environment.</li>
         <br />
-        <li><a href="#"><b>BUSINESS OPERATIONS</b></a><br>Strategizing and scaling operations for my independent business on campus. Some things are better left a mystery.</li>
+        <li><a href="#"><b><code>BUSINESS_OPERATIONS</code></b></a><br>Strategizing and scaling operations for my independent business on campus. Some things are better left a mystery.</li>
       </ul>
     </td>
     <td width="45%" align="center" valign="top">
@@ -109,12 +109,13 @@
 <br />
 <br />
 
-> <p style="color: #888888;">Code is never finished. It only becomes slightly less terrible over time.</p>
-> <p style="color: #888888;">Every commit I make is essentially just a small, desperate apology to my future self.<br>Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a terminal.</p>
+> <code>[LOG] Code is never finished. It only becomes slightly less terrible over time.</code>
+> <code>[WARN] Every commit I make is essentially just a small, desperate apology to my future self.</code>
+> <code>[CRIT] Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a terminal.</code>
 
 <br />
 
-<h3 align="center">Contribution</h3>
+<h3 align="center"><code>> git log --graph --oneline</code></h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="80%">
 </p>
