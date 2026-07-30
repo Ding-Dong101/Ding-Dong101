@@ -1,90 +1,106 @@
 <div align="center">
-  <!-- Replace with your own dark aesthetic anime banner -->
-  <img src="https://assets.pinterest.com/ext/embed.html?id=70087337939867264" alt="Banner" width="100%">
-  
-  <br />
-  <br />
-  
-  <img src="https://assets.pinterest.com/ext/embed.html?id=13018286422392269" alt="Banner" width="100%" />
- <!-- <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/stars/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
-  <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/forks/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
-  <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/followers/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>-->
-</div>
-
-<br />
-
-<h3 align="center">Know About Me</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="80%">
-</p>
-
-<table>
-  <tr>
-    <td width="30%" align="center">
-      <!-- Dark aesthetic placeholder image (like the brain in the reference) -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25oMzNnemJjZnlqaXJjZXJ1cmtzODVlNHlzbTl6cXV4dXZiZG41NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YcWb5t4Zqj7kQw/giphy.gif" width="80%" style="border-radius: 10px;" /> 
-    </td>
-    <td width="70%">
-      <h3>Hey there! I'm Erastus</h3>
-      <p>I'm a Computer Science undergrad at KNUST fueled by an unhealthy obsession with minimalist dark themes and command-line exploits. By day, I pretend to understand Discrete Mathematics and Circuit Theory. By night, I write Python and Bash scripts to automate myself out of doing actual work.</p>
-      <p>When I'm not coding or managing operations for a campus laundry business, I'm usually crashing systems in Hack The Box on Parrot OS or treating my <i>Ghost of Tsushima</i> playthrough like a highly stressful Fortune 500 company.</p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<h3 align="center">Top Projects (built to avoid manual labor)</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="80%">
-</p>
-
-<table>
-  <tr>
-    <td width="70%">
-      <ul>
-        <li><a href="#"><b>SAFETRADE</b></a> &nbsp; A peer-to-peer campus escrow mobile app built in React Native and Spring Boot, because trusting strangers with money needs to be automated gracefully.</li>
-        <br />
-        <li><a href="#"><b>OFFENSIVE SEC SCRIPTS</b></a> &nbsp; Custom terminal exploit tools and CTF automation that manage my cybersecurity obsession better than I manage my sleep schedule.</li>
-        <br />
-        <li><a href="#"><b>LIQUID SOAP ARCHITECTURE</b></a> &nbsp; Researching chemical formulas to scale my laundry business, because reading documentation is hard.</li>
-      </ul>
-    </td>
-    <td width="30%" align="center">
-       <!-- Dark flame/aesthetic image -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ296bHV5bHNveW14amRwa2oxeHVpeGxkZ2h3eW1xZ2E0YnI0dTZtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BGD4XaoPO3zTz9K/giphy.gif" width="70%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<h3 align="center">Connect</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="80%">
-</p>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 <div align="center">
-  <a href="https://github.com/Ding-Dong101" target="_blank"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/erastus-kwaw-9251a7359" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/syndicate4778" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-111111?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <img src="image_1.png" alt="Profile Ghost Avatar" height="150" style="border-radius: 50%;">
+  <h3>Hey there! I'm Erastus kwaw</h3>
+  <p>Studying at Kwame Nkrumah University of Science and Technology (KNUST)</p>
+  <p>Exploring the intersections of Mobile Development, Offensive Security, and Scalable Architecture.</p>
 </div>
 
-<br />
-<br />
-
-> <p style="color: #888888;">Code is never finished. It only becomes slightly less terrible over time.</p>
-> <p style="color: #888888;">Every commit I make is essentially just a small, desperate apology to my future self.<br>Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a Ryzen 9 5900HS and an RTX 3080.</p>
-
-<br />
-
-<h3 align="center">Contribution</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="80%">
-</p>
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ding-Dong101&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" width="80%" />
+  <img src="image_2.png" alt="My stack and interests" height="80">
+  <p>Daily drivers: Terminal, Coffee, JS, Music, Code. Solving problems first.</p>
 </div>
+
+## About Me // Student & Full-Stack Developer
+
+- 🔭 I’m a Computer Science Student studying: Discrete Mathematics, Pure Mathematics, Economics, Structured Programming, and Circuit Theory.
+
+- 🌱 I’m currently learning Machine Learning and React for front-end development, as well as React Native for mobile development.
+
+- 💼 Prior to freelance, I gained real-world experience as a Cybersecurity Intern at the University Information Technology Services (UITS), focusing on offensive security.
+
+<br/>
+
+<div align="center">
+  <img src="image_4.png" alt="Shellshock exploit in progress" width="90%">
+  <p>🛡️ Actively crushing CTF challenges, owning Hack The Box machines, and mastering command-line exploit tools in my Parrot OS environment.</p>
+</div>
+
+<br/>
+
+## My Skill Set
+
+<div align="center">
+
+| 🌐 **Frontend** | ⚙️ **Backend** | 🔧 **DevOps** |
+| :--- | :--- | :--- |
+| React, Next.js | Node.js, Spring Boot | Linux (Parrot OS/Kali), Bash |
+| Bootstrap, Tailwind CSS | Python, PHP | MySQL, MongoDB |
+| JavaScript, TypeScript | C++, Java | WSL, Webpack |
+| React Native | | |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="image_3.png" alt="Gumball on rainy street with camera recording interface" width="95%">
+  <p>Beyond the screen: culinary enthusiast 🧑‍🍳, competitive gamer 🎮, and regular swimmer 🏊🏾‍♂️. Also an anime lover 😳.</p>
+  <p>If you need me off the clock, I'm probably finishing Ghost of Tsushima or fine-tuning operations for a campus laundry service.</p>
+</div>
+
+<br/>
+
+<h2 align="center">Connect with me</h2>
+<div align="center">
+<a href="https://linkedin.com/in/erastus-kwaw-9251a7359" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Ding-Dong101" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/syndicate4778" target="_blank">
+<img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ding-Dong101&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Ding-Dong101&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/DingDong101" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
