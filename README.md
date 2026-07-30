@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.pexels.com/photos/29708304/pexels-photo-29708304.jpeg" alt="Banner" width="100%" />
+  <img src="https://images.pexels.com/photos/29708304/pexels-photo-29708304.jpeg" alt="Banner" width="100%" height="50%"/>
   
   <br />
   <br />
