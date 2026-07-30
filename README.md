@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Instagram Banner Design Tips for Business Success _ Create Your Stunning Cover Now.jpg" alt="Erastus Banner" width="100%" />
+  <img src="https://pixabay.com/illustrations/banner-header-cubes-squares-1763470/" alt="Banner" width="100%" />
   
   <br />
   <br />
