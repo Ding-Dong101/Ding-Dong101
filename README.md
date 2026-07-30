@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pixabay.com/illustrations/banner-header-cubes-squares-1763470/" alt="Banner" width="100%" />
+  <img src="https://images.pexels.com/photos/29708304/pexels-photo-29708304.jpeg" alt="Banner" width="100%" />
   
   <br />
   <br />
