@@ -1,13 +1,14 @@
 <div align="center">
   <!-- Replace with your own dark aesthetic anime banner -->
-  <img src="https://i.pinimg.com/originals/f5/05/24/f50524ee5f161f437400aaf215c9e12f.jpg" alt="Erastus Banner" width="100%" />
+  <img src="https://assets.pinterest.com/ext/embed.html?id=70087337939867264" alt="Banner" width="100%">
   
   <br />
   <br />
   
-  <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/stars/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
+  <img src="https://assets.pinterest.com/ext/embed.html?id=13018286422392269" alt="Banner" width="100%" />
+ <!-- <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/stars/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
   <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/forks/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
-  <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/followers/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
+  <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/followers/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>-->
 </div>
 
 <br />
