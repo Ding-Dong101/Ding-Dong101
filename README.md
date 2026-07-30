@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="debradeka-background-5963307_1920.jpg" alt="Ding-Dong Banner" width="100%" />
+  <img src="debradeka-background-5963307_1920.jpgr" width="100%" />
   
   <br />
   <br />
@@ -18,16 +18,24 @@
 
 <table>
   <tr>
-    <td width="30%" align="center">
-      <img src="1104718983602090085.jpg" width="80%" style="border-radius: 10px;" /> 
+    <td width="30%" align="center" valign="top">
+      <br />
+      <img src="1104718983602090085.jpg" width="90%" style="border-radius: 10px;" /> 
     </td>
-    <td width="70%">
+    <td width="70%" valign="top">
+      <h3>Hey there! I'm Ding-Dong</h3>
       <p>
         <a href="https://github.com/Ding-Dong101"><img src="https://komarev.com/ghpvc/?username=Ding-Dong101&style=flat-square&color=111111&label=Profile+Views" alt="Profile Views" /></a>
       </p>
-      <h3>Hey there! I'm Ding-Dong</h3>
-      <p>I'm a Computer Science undergrad at KNUST fueled by a deep obsession with cybersecurity and offensive security research. By day, you will find me studying school-related books and handouts. By night, I write Python and Bash scripts to automate my workflows and dive into Capture The Flag challenges.</p>
-      <p>When I'm not writing code, you can find me playing games, cooking, or managing my independent campus business. The rest of the time, I'm usually staring at my 27" 1440p monitor trying to figure out why my script broke.</p>
+      <ul>
+        <li>🎓 <b>By Day:</b> Computer Science undergrad at KNUST, mostly studying school-related books and handouts.</li>
+        <br />
+        <li>🦇 <b>By Night:</b> Fueled by a deep obsession with cybersecurity, writing Python and Bash scripts to automate workflows, and diving into Capture The Flag challenges.</li>
+        <br />
+        <li>🎮 <b>AFK Activities:</b> When I'm not writing code, you can find me playing games, cooking, or managing my independent campus business.</li>
+        <br />
+        <li>🖥️ <b>Currently:</b> Staring at my 27" 1440p monitor trying to figure out why my script broke.</li>
+      </ul>
       <br />
       <b>🌟 Follow Me:</b> &nbsp;
       <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -82,7 +90,7 @@
 
 <table>
   <tr>
-    <td width="55%">
+    <td width="55%" valign="top">
       <ul>
         <li><a href="#"><b>SAFETRADE</b></a><br>A peer-to-peer campus escrow mobile app built in React Native and Spring Boot, designed to handle transactions securely and gracefully.</li>
         <br />
@@ -91,8 +99,8 @@
         <li><a href="#"><b>BUSINESS OPERATIONS</b></a><br>Strategizing and scaling operations for my independent business on campus. Some things are better left a mystery.</li>
       </ul>
     </td>
-    <td width="45%" align="center">
-      <!-- Fixed GitHub Stats: Removed count_private to prevent token errors and applied a transparent theme to fit the minimal dark aesthetic perfectly -->
+    <td width="45%" align="center" valign="top">
+      <br />
       <img src="https://github-readme-stats.vercel.app/api?username=Ding-Dong101&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&show_icons=true" width="100%" />
     </td>
   </tr>
