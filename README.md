@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://images.pexels.com/photos/29708304/pexels-photo-29708304.jpeg" alt="Banner" width="100%" height="50%"/>
+  <img src="Instagram Banner Design Tips for Business Success _ Create Your Stunning Cover Now.jpg" alt="Erastus Banner" width="100%" />
   
   <br />
   <br />
   
- <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/stars/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
+  <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/stars/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
   <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/forks/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
   <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/followers/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
 </div>
@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="https://pin.it/1r2FcXuSt" width="80%" style="border-radius: 10px;" /> 
+      <img src="1104718983602090085.jpg" width="80%" style="border-radius: 10px;" /> 
     </td>
     <td width="70%">
       <h3>Hey there! I'm Erastus</h3>
