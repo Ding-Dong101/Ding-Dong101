@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Instagram Banner Design Tips for Business Success _ Create Your Stunning Cover Now.jpg" alt="Erastus Banner" width="100%" />
+  <img src="Instagram Banner Design Tips for Business Success _ Create Your Stunning Cover Now.jpg" alt="Ding-Dong Banner" width="100%" />
   
   <br />
   <br />
@@ -22,16 +22,16 @@
       <img src="1104718983602090085.jpg" width="80%" style="border-radius: 10px;" /> 
     </td>
     <td width="70%">
-      <h3>Hey there! I'm Erastus</h3>
-      <p>I'm a Computer Science undergrad at KNUST fueled by an unhealthy obsession with minimalist dark themes and command-line exploits. By day, I study Discrete Mathematics and Circuit Theory. By night, I write Python and Bash scripts to automate myself out of doing actual work.</p>
-      <p>When I'm not writing code, managing operations for my campus laundry business, or treating my <i>Ghost of Tsushima</i> playthrough like a highly stressful Fortune 500 company, I'm usually staring at my 27" 1440p MSI monitor trying to figure out why my script broke.</p>
+      <h3>Hey there! I'm Ding-Dong</h3>
+      <p>I'm a Computer Science undergrad at KNUST fueled by a deep obsession with cybersecurity and offensive security research. By day, you will find me studying school-related books and handouts. By night, I write Python and Bash scripts to automate my workflows and dive into Capture The Flag challenges.</p>
+      <p>When I'm not writing code, you can find me playing games, cooking, or managing my independent campus business. The rest of the time, I'm usually staring at my 27" 1440p monitor trying to figure out why my script broke.</p>
     </td>
   </tr>
 </table>
 
 <br />
 
-<h3 align="center">Top Projects (built to avoid manual labor)</h3>
+<h3 align="center">Top Projects</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="80%">
 </p>
@@ -40,11 +40,11 @@
   <tr>
     <td width="70%">
       <ul>
-        <li><a href="#"><b>SAFETRADE</b></a> &nbsp; A peer-to-peer campus escrow mobile app built in React Native and Spring Boot, because trusting strangers with money needs to be handled gracefully.</li>
+        <li><a href="#"><b>SAFETRADE</b></a> &nbsp; A peer-to-peer campus escrow mobile app built in React Native and Spring Boot, designed to handle transactions securely and gracefully.</li>
         <br />
-        <li><a href="#"><b>OFFENSIVE SEC SCRIPTS</b></a> &nbsp; Custom terminal exploit tools and CTF automation that manage my cybersecurity obsession better than I manage my sleep schedule.</li>
+        <li><a href="#"><b>OFFENSIVE SEC SCRIPTS</b></a> &nbsp; Custom terminal exploit tools and CTF automation built for my Parrot OS environment.</li>
         <br />
-        <li><a href="#"><b>LIQUID SOAP ARCHITECTURE</b></a> &nbsp; Researching chemical formulas to scale my laundry business, because reading documentation is hard.</li>
+        <li><a href="#"><b>BUSINESS OPERATIONS</b></a> &nbsp; Strategizing and scaling operations for my independent business on campus. Some things are better left a mystery.</li>
       </ul>
     </td>
     <td width="30%" align="center">
@@ -66,9 +66,9 @@
       <img src="picture.jpg" width="90%" style="border-radius: 10px;" /> 
     </td>
     <td width="70%">
-      <p><b>Working On:</b> Conquering Hack The Box machines on Parrot OS, utilizing my offensive security experience from my UITS internship.</p>
-      <p><b>Hardware Situation:</b> Currently planning to consolidate my desktop rig (RTX 3080) and my trusty ROG Zephyrus G14 (Ryzen 9 5900HS) into a single RTX 5070 Ti powerhouse.</p>
-      <p><b>AFK Activities:</b> Cooking 🧑‍🍳, swimming 🏊🏾‍♂️, and watching anime.</p>
+      <p><b>Working On:</b> Conquering Hack The Box machines and utilizing my offensive security experience from my UITS internship.</p>
+      <p><b>Hardware Situation:</b> Currently planning to consolidate my desktop rig and my ROG Zephyrus G14 into a single RTX 5070 Ti powerhouse.</p>
+      <p><b>AFK Activities:</b> Cooking 🧑‍🍳, gaming 🎮, and keeping business operations running smoothly.</p>
     </td>
   </tr>
 </table>
