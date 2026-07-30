@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Instagram Banner Design Tips for Business Success _ Create Your Stunning Cover Now.jpg" alt="Ding-Dong Banner" width="100%" />
+  <img src="debradeka-background-5963307_1920.jpg" alt="Ding-Dong Banner" width="100%" />
   
   <br />
   <br />
