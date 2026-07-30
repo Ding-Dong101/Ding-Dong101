@@ -4,7 +4,7 @@
   <br />
   <br />
   
-  <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/stars/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
+  <a href="https://github.com/Ding-Dong101"><img src="https://drive.google.com/file/d/1-YmeutKRy_jy7XaIFf_qPipxvWssyWi0/view?usp=drive_link" /></a>
   <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/forks/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
   <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/followers/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
 </div>
