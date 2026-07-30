@@ -4,7 +4,7 @@
   <br />
   <br />
   
-  <a href="https://github.com/Ding-Dong101"><img src="https://drive.google.com/file/d/1-YmeutKRy_jy7XaIFf_qPipxvWssyWi0/view?usp=drive_link](https://pin.it/2K1jRkUfX" /></a>
+ <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/stars/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
   <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/forks/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
   <a href="https://github.com/Ding-Dong101"><img src="https://img.shields.io/github/followers/Ding-Dong101?style=for-the-badge&color=111111&logoColor=white&labelColor=111111" /></a>
 </div>
@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="1104718983602090085.jpg" width="80%" style="border-radius: 10px;" /> 
+      <img src="https://pin.it/1r2FcXuSt" width="80%" style="border-radius: 10px;" /> 
     </td>
     <td width="70%">
       <h3>Hey there! I'm Erastus</h3>
